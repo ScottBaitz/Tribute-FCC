@@ -1,0 +1,36 @@
+html {
+  background-color: #E3D8F1;
+}
+
+#main {
+  margin: auto;
+  text-align: center;
+}
+
+#title {
+  font-size: 3vw;
+}
+
+#img-div {
+  background-color: #5D5F71;
+}
+
+#img-caption {
+  color: #E3D8F1;
+}
+
+#image {
+  margin: auto;
+  width: 50%;
+  max-width: 800px;
+  display: block;
+}
+
+#tribute-info {
+  margin: auto;
+  width: 50%;
+}
+
+.buttholes {
+  font-size: 32px;
+}
